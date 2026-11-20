@@ -1,4 +1,4 @@
-# S09 - Inference support
+# Repository guide S09 (historical artifact ID) - Inference support
 
 `results/final/bootstrap_validity_summary.csv` records interval validity by domain,
 horizon, and metric. `supplement_tables/S09_bootstrap_target_support_summary.csv` records

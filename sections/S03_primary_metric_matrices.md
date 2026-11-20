@@ -1,4 +1,4 @@
-# S03 - Primary metric matrices
+# Repository guide S03 (historical artifact ID) - Primary metric matrices
 
 `results/final/primary_model_comparator_contrasts.csv` contains the complete 18-cell by
 four-family contrast matrices for Average Precision and Recall@5% against all three

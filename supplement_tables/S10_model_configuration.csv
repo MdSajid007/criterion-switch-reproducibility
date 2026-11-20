@@ -1,105 +1,105 @@
-row_unit,model_family,field,value,metric,metric_direction,retrieval_status,publication_location
-model_configuration_field,LR_P2,estimator,sklearn.linear_model.LogisticRegression,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,LR_P2,solver,lbfgs,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,LR_P2,penalty,L2,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,LR_P2,C,1.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,LR_P2,max_iter,2000,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,LR_P2,tol,0.0001,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,LR_P2,fit_intercept,True,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,LR_P2,intercept_scaling,1,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,LR_P2,dual,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,LR_P2,class_weight,None (no additional class weighting),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,LR_P2,random_state,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,LR_P2,scaler,none,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,LR_P2,imputer,none,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,LR_P2,config_hash,d682bb0e4d898fe01bf26808a712cb4da17be52d1670708f603d8374aa996e6b,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,not published (internal provenance)
-model_configuration_field,HGB_P2,estimator,sklearn.ensemble.HistGradientBoostingClassifier,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,HGB_P2,learning_rate,0.08,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,HGB_P2,max_iter,60,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,HGB_P2,max_leaf_nodes,15,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,HGB_P2,early_stopping,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,HGB_P2,class_weight,None (no additional class weighting),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,HGB_P2,random_state,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,HGB_P2,other_parameters,library defaults of scikit-learn 1.8.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,HGB_P2,config_hash,a7f058622afdc9ff08aae97500e765883144b22b88163b3b2a3afea1d69be0b1,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,not published (internal provenance)
-model_configuration_field,RF_P2,estimator,sklearn.ensemble.RandomForestClassifier,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RF_P2,n_estimators,300,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RF_P2,criterion,gini,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RF_P2,max_depth,None (unpruned),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RF_P2,max_features,sqrt,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RF_P2,max_leaf_nodes,None,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RF_P2,min_samples_split,2,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RF_P2,min_samples_leaf,1,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RF_P2,min_weight_fraction_leaf,0.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RF_P2,min_impurity_decrease,0.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RF_P2,ccp_alpha,0.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RF_P2,bootstrap,True,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RF_P2,max_samples,None,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RF_P2,oob_score,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RF_P2,warm_start,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RF_P2,class_weight,None (no additional class weighting),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RF_P2,n_jobs,1 (built-in int; exact type required),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1 and determinism subsection
-model_configuration_field,RF_P2,random_state,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RF_P2,scaler,none,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RF_P2,imputer,none,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RF_P2,tuning,none,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7
-model_configuration_field,RF_P2,config_hash,0d1775f2313031646f0a099b74ccd4d80247eb2b95f0465fe914377bfc98282b,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,not published (internal provenance)
-model_configuration_field,RESMLP_P2,framework,pytorch 2.13.0+cpu,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1 and software environment
-model_configuration_field,RESMLP_P2,stem,"Linear(10,128) + SiLU",NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,residual_block,"LayerNorm(128); Linear(128,128); SiLU; Dropout(0.10); Linear(128,128); residual add",NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,n_residual_blocks,2,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,head,"LayerNorm(128); Linear(128,64); SiLU; Dropout(0.10); Linear(64,1)",NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,hidden_dim,128,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,head_dim,64,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,activation,SiLU,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,output_activation,torch.sigmoid(logit),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,parameter_count,76545,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,optimizer,torch.optim.AdamW,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,learning_rate,0.001,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,weight_decay,0.0001,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,scheduler,"CosineAnnealingLR, T_max=50, eta_min=1e-05",NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,batch_size,4096,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,epochs,50,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,final_checkpoint,epoch 50,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,early_stopping,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,best_epoch_selection,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,validation_selection,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,dropout,0.1,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,gradient_clipping,max_norm 1.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,loss,binary_cross_entropy_with_logits(reduction='none'),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,loss_weighting,row loss * frozen AML-03 row-keyed sample weight,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,effective_weight_dtype,float64 (weights consumed bitwise unchanged),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1 and determinism subsection
-model_configuration_field,RESMLP_P2,model_parameter_dtype,float32,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,not published (implementation detail; weighting dtype is the reproducible-relevant one)
-model_configuration_field,RESMLP_P2,class_weights_added,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,scaler,"StandardScaler(with_mean=True, with_std=True); fit per cell on training rows only",NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,seed,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,device,cpu,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,RESMLP_P2,config_hash,c1f4884e98c213e96059ce4085e7bc3eef840b5ea68f28f4d50f553b27f21015,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,not published (internal provenance)
-model_configuration_field,ALL,representation,P2 ten-feature allowlist in frozen order,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.5 and 3.7; Supplement S2 Table S2.1
-model_configuration_field,ALL,input_cleaning,bool->float64; to_numeric coerce; inf->NaN; NaN->0.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10 Table S10.1
-model_configuration_field,ALL,sample_weighting,domain- and episode-balanced base weight with per-class rescale to equal total weight,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.6 Eq.(7); Supplement S10 Table S10.1
-model_configuration_field,ALL,tuning_permitted,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.7; Supplement S10
-model_configuration_field,ALL,PYTHONHASHSEED,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 determinism subsection
-model_configuration_field,ALL,torch_deterministic_algorithms,True,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 determinism subsection
-model_configuration_field,ALL,cudnn_deterministic,True,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 determinism subsection
-model_configuration_field,ALL,cudnn_benchmark,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 determinism subsection
-model_configuration_field,ALL,CUBLAS_WORKSPACE_CONFIG,:4096:8,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 determinism subsection
-model_configuration_field,ALL,dataloader_num_workers,0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 determinism subsection
-model_configuration_field,ALL,dataloader_generator_seed,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 determinism subsection
-model_configuration_field,ALL,numpy_random_seed,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 determinism subsection
-model_configuration_field,ALL,python_version,3.14.4 (CPython),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 software environment
-model_configuration_field,ALL,scikit_learn,1.8.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 software environment
-model_configuration_field,ALL,torch,2.13.0+cpu,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 software environment
-model_configuration_field,ALL,numpy,2.4.6,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 software environment
-model_configuration_field,ALL,pandas,3.0.3,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 software environment
-model_configuration_field,ALL,scipy,1.17.1,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 software environment
-model_configuration_field,ALL,pyarrow,25.0.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 software environment
-model_configuration_field,ALL,joblib,1.5.3,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 software environment
-model_configuration_field,ALL,threadpoolctl,3.6.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 software environment
-model_configuration_field,ALL,platform,Windows-11-10.0.26200-SP0 (x86-64),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S10 software environment
-model_configuration_field,NUMERIC_CONSTANT,standardisation_scale_floor,1e-12 (scale set to 1.0 when prior sd <= 1e-12 or fewer than 2 prior observations),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Methods 3.5; Supplement S2 Table S2.2
-model_configuration_field,NUMERIC_CONSTANT,radial_term_separation_guard,1e-12 m,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT,Supplement S2 Table S2.2
-model_configuration_field,NUMERIC_CONSTANT,relative_speed_squared_epsilon,1e-9 m^2/s^2,NOT_APPLICABLE,NOT_APPLICABLE,ALREADY_DISCLOSED_IN_E2,Methods 3.3 Eq.(5); Supplement S2 Table S2.2
-model_configuration_field,NUMERIC_CONSTANT,identity_py_digest,33eef8dc98faae4661b7dc28ae47241ba782df0224871762fc7a87ca86c4513a,NOT_APPLICABLE,NOT_APPLICABLE,VERIFIED_MATCH,not published (internal provenance)
-model_configuration_field,NUMERIC_CONSTANT,transfer_py_digest,8871e7b5a04c64072f32b94f0302c4f60cad971509255d0574895e3e6095a2d9,NOT_APPLICABLE,NOT_APPLICABLE,VERIFIED_MATCH,not published (internal provenance)
-model_configuration_field,LR_P2,l1_ratio,0.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT_HR1_R1,Supplement S10 Table S10.1 and publication source map
+row_unit,model_family,field,value,metric,metric_direction,retrieval_status
+model_configuration_field,LR_P2,estimator,sklearn.linear_model.LogisticRegression,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,LR_P2,solver,lbfgs,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,LR_P2,penalty,L2,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,LR_P2,C,1.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,LR_P2,max_iter,2000,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,LR_P2,tol,0.0001,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,LR_P2,fit_intercept,True,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,LR_P2,intercept_scaling,1,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,LR_P2,dual,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,LR_P2,class_weight,None (no additional class weighting),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,LR_P2,random_state,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,LR_P2,scaler,none,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,LR_P2,imputer,none,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,LR_P2,config_hash,d682bb0e4d898fe01bf26808a712cb4da17be52d1670708f603d8374aa996e6b,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,HGB_P2,estimator,sklearn.ensemble.HistGradientBoostingClassifier,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,HGB_P2,learning_rate,0.08,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,HGB_P2,max_iter,60,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,HGB_P2,max_leaf_nodes,15,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,HGB_P2,early_stopping,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,HGB_P2,class_weight,None (no additional class weighting),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,HGB_P2,random_state,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,HGB_P2,other_parameters,library defaults of scikit-learn 1.8.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,HGB_P2,config_hash,a7f058622afdc9ff08aae97500e765883144b22b88163b3b2a3afea1d69be0b1,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,estimator,sklearn.ensemble.RandomForestClassifier,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,n_estimators,300,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,criterion,gini,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,max_depth,None (unpruned),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,max_features,sqrt,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,max_leaf_nodes,None,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,min_samples_split,2,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,min_samples_leaf,1,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,min_weight_fraction_leaf,0.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,min_impurity_decrease,0.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,ccp_alpha,0.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,bootstrap,True,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,max_samples,None,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,oob_score,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,warm_start,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,class_weight,None (no additional class weighting),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,n_jobs,1 (built-in int; exact type required),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,random_state,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,scaler,none,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,imputer,none,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,tuning,none,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RF_P2,config_hash,0d1775f2313031646f0a099b74ccd4d80247eb2b95f0465fe914377bfc98282b,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,framework,pytorch 2.13.0+cpu,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,stem,"Linear(10,128) + SiLU",NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,residual_block,"LayerNorm(128); Linear(128,128); SiLU; Dropout(0.10); Linear(128,128); residual add",NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,n_residual_blocks,2,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,head,"LayerNorm(128); Linear(128,64); SiLU; Dropout(0.10); Linear(64,1)",NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,hidden_dim,128,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,head_dim,64,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,activation,SiLU,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,output_activation,torch.sigmoid(logit),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,parameter_count,76545,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,optimizer,torch.optim.AdamW,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,learning_rate,0.001,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,weight_decay,0.0001,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,scheduler,"CosineAnnealingLR, T_max=50, eta_min=1e-05",NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,batch_size,4096,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,epochs,50,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,final_checkpoint,epoch 50,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,early_stopping,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,best_epoch_selection,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,validation_selection,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,dropout,0.1,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,gradient_clipping,max_norm 1.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,loss,binary_cross_entropy_with_logits(reduction='none'),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,loss_weighting,row loss * frozen AML-03 row-keyed sample weight,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,effective_weight_dtype,float64 (weights consumed bitwise unchanged),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,model_parameter_dtype,float32,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,class_weights_added,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,scaler,"StandardScaler(with_mean=True, with_std=True); fit per cell on training rows only",NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,seed,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,device,cpu,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,RESMLP_P2,config_hash,c1f4884e98c213e96059ce4085e7bc3eef840b5ea68f28f4d50f553b27f21015,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,representation,P2 ten-feature allowlist in frozen order,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,input_cleaning,bool->float64; to_numeric coerce; inf->NaN; NaN->0.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,sample_weighting,domain- and episode-balanced base weight with per-class rescale to equal total weight,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,tuning_permitted,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,PYTHONHASHSEED,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,torch_deterministic_algorithms,True,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,cudnn_deterministic,True,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,cudnn_benchmark,False,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,CUBLAS_WORKSPACE_CONFIG,:4096:8,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,dataloader_num_workers,0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,dataloader_generator_seed,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,numpy_random_seed,42,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,python_version,3.14.4 (CPython),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,scikit_learn,1.8.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,torch,2.13.0+cpu,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,numpy,2.4.6,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,pandas,3.0.3,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,scipy,1.17.1,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,pyarrow,25.0.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,joblib,1.5.3,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,threadpoolctl,3.6.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,ALL,platform,Windows-11-10.0.26200-SP0 (x86-64),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,NUMERIC_CONSTANT,standardisation_scale_floor,1e-12 (scale set to 1.0 when prior sd <= 1e-12 or fewer than 2 prior observations),NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,NUMERIC_CONSTANT,radial_term_separation_guard,1e-12 m,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT
+model_configuration_field,NUMERIC_CONSTANT,relative_speed_squared_epsilon,1e-9 m^2/s^2,NOT_APPLICABLE,NOT_APPLICABLE,ALREADY_DISCLOSED_IN_E2
+model_configuration_field,NUMERIC_CONSTANT,identity_py_digest,33eef8dc98faae4661b7dc28ae47241ba782df0224871762fc7a87ca86c4513a,NOT_APPLICABLE,NOT_APPLICABLE,VERIFIED_MATCH
+model_configuration_field,NUMERIC_CONSTANT,transfer_py_digest,8871e7b5a04c64072f32b94f0302c4f60cad971509255d0574895e3e6095a2d9,NOT_APPLICABLE,NOT_APPLICABLE,VERIFIED_MATCH
+model_configuration_field,LR_P2,l1_ratio,0.0,NOT_APPLICABLE,NOT_APPLICABLE,RECOVERED_EXACT_HR1_R1

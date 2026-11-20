@@ -1,4 +1,4 @@
-# S05 - Learned-family selection
+# Repository guide S05 (historical artifact ID) - Learned-family selection
 
 `supplement_tables/S05_model_preference_results.csv` contains the complete
 criterion-by-criterion top-family sets for all 18 cells. Ties are preserved explicitly;

@@ -22,6 +22,8 @@ The verifier should finish with `33 checks, 0 failed` and `REPRODUCTION CHECK PA
 - `results/final/`, `supplement_tables/`, and `figure_data/`: aggregate and contrast-level results and plotted values.
 - `FROZEN_METHOD_CONTRACT.md`, `REPRODUCIBILITY.md`, and `DATA_LICENSE_BOUNDARY.md`: method and access boundaries.
 
+The numbered filenames in `sections/` and `supplement_tables/` retain historical artifact identifiers; they are not the section or table numbers of the current *Scientific Reports* Supplementary Information. In the current supplement, model configurations are Table S3, software and determinism are Table S4, and leakage control and reproducibility are Section S10. The obsolete `publication_location` column was removed from `supplement_tables/S10_model_configuration.csv`; configuration values and row order are unchanged.
+
 This is a Level 1 release: it recomputes reported summaries from the distributed tables. It does not include the full source-data-dependent training and evaluation pipeline or the prepared per-observation inputs. See `REPRODUCIBILITY.md` for what can and cannot be rerun.
 
 ## Source datasets

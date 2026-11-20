@@ -1,4 +1,4 @@
-# S11 - Robustness and mechanism tables
+# Repository guide S11 (historical artifact ID) - Robustness and mechanism tables
 
 The seven-point retrieval-depth profile is `results/final/posthoc_recall_q_profile.csv`.
 It covers all three target domains (ETH, UCY and inD); the paper's mechanistic

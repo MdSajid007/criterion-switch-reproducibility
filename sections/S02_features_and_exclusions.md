@@ -1,4 +1,4 @@
-# S02 - Features, exclusions, and weighting
+# Repository guide S02 (historical artifact ID) - Features, exclusions, and weighting
 
 The complete ten-feature allowlist and the exclusion categories are recorded in
 `FROZEN_METHOD_CONTRACT.md`. Past-only standardization is per recording and precedes

@@ -1,4 +1,4 @@
-# S01 - Dataset admission and harmonization
+# Repository guide S01 (historical artifact ID) - Dataset admission and harmonization
 
 Admitted corpora are ETH (2 recordings), UCY (4 recordings), and inD (31 contributing
 recordings nested in four locations). DUT was not admitted because provenance was
