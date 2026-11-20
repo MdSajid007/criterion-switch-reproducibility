@@ -1,0 +1,7 @@
+claim_family,nonlinear_model,reference_model,metric,metric_label,canonical_direction,contrast,units,point_gt_0,point_eq_0,point_lt_0,ci_gt_0,ci_crosses_0,ci_lt_0,insufficient_support,low_cluster_count_units
+CS5,HGB_P2,LR_P2,average_precision,AP,NONLINEAR_MINUS_LR,average_precision(HGB_P2) - average_precision(LR_P2),18,11,0,7,9,7,2,0,12
+CS5,HGB_P2,LR_P2,recall_at_5pct,RECALL_AT_5_PERCENT,NONLINEAR_MINUS_LR,recall_at_5pct(HGB_P2) - recall_at_5pct(LR_P2),18,10,0,8,4,12,2,0,12
+CS5,RF_P2,LR_P2,average_precision,AP,NONLINEAR_MINUS_LR,average_precision(RF_P2) - average_precision(LR_P2),18,10,0,8,6,11,1,0,12
+CS5,RF_P2,LR_P2,recall_at_5pct,RECALL_AT_5_PERCENT,NONLINEAR_MINUS_LR,recall_at_5pct(RF_P2) - recall_at_5pct(LR_P2),18,6,0,12,3,14,1,0,12
+CS5,RESMLP_P2,LR_P2,average_precision,AP,NONLINEAR_MINUS_LR,average_precision(RESMLP_P2) - average_precision(LR_P2),18,12,0,6,8,8,2,0,12
+CS5,RESMLP_P2,LR_P2,recall_at_5pct,RECALL_AT_5_PERCENT,NONLINEAR_MINUS_LR,recall_at_5pct(RESMLP_P2) - recall_at_5pct(LR_P2),18,11,0,7,8,7,3,0,12

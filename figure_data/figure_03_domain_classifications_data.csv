@@ -1,0 +1,7 @@
+target_domain,criterion,n_contrasts,n_learned_favored,n_inconclusive,n_comparator_favored,n_target_recordings,n_physical_locations,inferential_scope,attainable_bootstrap_compositions
+ETH,average_precision,24,22,2,0,2,,descriptive,3
+ETH,recall_at_5pct,24,2,8,14,2,,descriptive,3
+UCY,average_precision,24,0,24,0,4,,descriptive,35
+UCY,recall_at_5pct,24,0,2,22,4,,descriptive,35
+inD,average_precision,24,21,3,0,31,4,resolving,
+inD,recall_at_5pct,24,0,0,24,31,4,resolving,

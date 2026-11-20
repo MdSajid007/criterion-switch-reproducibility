@@ -1,0 +1,11 @@
+row_unit,component,version,purpose,metric,metric_direction
+software_environment_component,CPython,3.14.4,runtime,NOT_APPLICABLE,NOT_APPLICABLE
+software_environment_component,scikit-learn,1.8.0,LR/HGB/RF and metrics,NOT_APPLICABLE,NOT_APPLICABLE
+software_environment_component,PyTorch CPU,2.13.0,RESMLP,NOT_APPLICABLE,NOT_APPLICABLE
+software_environment_component,NumPy,2.4.6,numeric computation,NOT_APPLICABLE,NOT_APPLICABLE
+software_environment_component,pandas,3.0.3,data handling,NOT_APPLICABLE,NOT_APPLICABLE
+software_environment_component,SciPy,1.17.1,scientific support,NOT_APPLICABLE,NOT_APPLICABLE
+software_environment_component,pyarrow,25.0.0,Parquet I/O,NOT_APPLICABLE,NOT_APPLICABLE
+software_environment_component,joblib,1.5.3,execution support,NOT_APPLICABLE,NOT_APPLICABLE
+software_environment_component,threadpoolctl,3.6.0,thread control,NOT_APPLICABLE,NOT_APPLICABLE
+software_environment_component,platform,Windows 11 x86-64,recorded operating environment,NOT_APPLICABLE,NOT_APPLICABLE
